@@ -1,6 +1,6 @@
 # Chatbot GameVerse
 
-🚀 **Coba Langsung Bot-nya di sini:** [t.me/carigame_bot](https://t.me/UsernameBotAnda) *(Ganti dengan username bot Telegram Anda yang asli)*
+🚀 **Coba Langsung Bot-nya di sini:** [t.me/carigame_bot](https://t.me/UsernameBotAnda)
 
 GameVerse adalah sebuah chatbot Telegram yang dirancang khusus untuk membantu Anda menemukan game favorit. Project ini dibangun menggunakan Python dan terintegrasi langsung dengan RAWG API untuk menyajikan database game paling update. Bot ini dirancang sebagai bagian dari skripsi untuk menunjukkan implementasi *Finite State Machine* (FSM) dalam interaksi pengguna.
 
